@@ -1,4 +1,4 @@
-# Folder Locker Software
+# HM_Folder Locker Software
 
 This repository contains the **Folder Locker Software**, a desktop application written in Java that allows users to lock and secure folders on their PC. The software ensures that your sensitive data remains protected by restricting access to selected folders. 
 
