@@ -1,2 +1,2 @@
-# SDP_FolderLocker
+# FolderLocker
  Folder Locking Software
